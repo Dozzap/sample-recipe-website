@@ -1,3 +1,3 @@
 # sample-recipe-website
 
-This website is currenlty in development
+This website is currently in development
